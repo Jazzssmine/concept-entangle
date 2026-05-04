@@ -1,8 +1,8 @@
-# unlearn_diff
+# concept entanglement
 
-Unified, cleaned README for the `unlearn_diff` code release.
+Unified, cleaned README for the `concept entanglement` code release.
 
-This repository focuses on diffusion-model unlearning evaluation and analysis:
+This repository focuses on diffusion-model concept entanglement evaluation and analysis:
 - concept-set and prompt construction
 - benchmark generation and CLIP-based evaluation
 - activation-space experiments (Experiments 1-3)
@@ -34,17 +34,7 @@ conda env create -f environment.yml
 
 ## Quick Start
 
-### 1) Build concept sets
-
-```bash
-python scripts/build_concept_sets.py \
-  --targets horse \
-  --caption_subsets_dir outputs/caption_subsets \
-  --concept_vocab_path data/concept_vocab_objects.txt \
-  --output_dir outputs/concept_sets
-```
-
-### 2) Build prompts
+### 1) Build prompts
 
 ```bash
 python scripts/build_prompts.py \
@@ -52,12 +42,12 @@ python scripts/build_prompts.py \
   --output_dir outputs/prompts \
   --direct_per_target 200 \
   --indirect_per_target 200 \
-  --neighbor_per_concept 200 \
-  --control_per_concept 200 \
+  --neighbor_per_concept 20 \
+  --control_per_concept 20 \
   --random_seed 42
 ```
 
-### 3) Run benchmark generation
+### 2) Run benchmark generation
 
 ```bash
 python scripts/run_benchmark.py \
@@ -71,7 +61,7 @@ python scripts/run_benchmark.py \
   --seeds 0
 ```
 
-### 4) Evaluate generated images
+### 3) Evaluate generated images
 
 ```bash
 python scripts/evaluate_from_image_folders.py \

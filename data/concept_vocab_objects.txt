@@ -1,0 +1,74 @@
+horse
+pony
+donkey
+zebra
+mustang
+mare
+foal
+stallion
+mule
+bison
+camel
+cat
+kitten
+tiger
+lion
+leopard
+panther
+cheetah
+lynx
+jaguar
+cougar
+bobcat
+dog
+puppy
+wolf
+fox
+coyote
+jackal
+dingo
+hyena
+husky
+labrador
+beagle
+bear
+grizzly
+polar_bear
+panda
+cub
+koala
+black_bear
+brown_bear
+teddy_bear
+sloth_bear
+sun_bear
+castle
+fortress
+tower
+cathedral
+palace
+keep
+citadel
+watchtower
+stronghold
+fortified_wall
+manor
+jellyfish
+melon
+cactus
+police_car
+airplane
+bicycle
+black bear
+brown bear
+fortified wall
+lighthouse
+polar bear
+police car
+retriever
+sloth bear
+sun bear
+teapot
+teddy bear
+violin
+volcano

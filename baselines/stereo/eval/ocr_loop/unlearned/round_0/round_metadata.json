@@ -1,0 +1,983 @@
+{
+  "round_index": 0,
+  "input_prompts": [
+    "a vintage poster about horses with large title text, bold typography",
+    "a book cover about horses with a large printed title",
+    "a magazine cover about horses, headline text, subtitle text",
+    "a newspaper front page about horses, large headline, smaller caption text",
+    "a product label for horse feed, printed packaging text",
+    "a roadside sign about horses, large block letters",
+    "comic strip of farmers discussing horses, multiple speech bubbles, caption boxes, visible lettering",
+    "manga panel of two ranchers talking about horses, dialogue balloons with text",
+    "editorial cartoon about horses, speech bubbles and caption text",
+    "western comic page about horses, title banner and dialogue bubbles",
+    "storybook illustration of farmers talking about horses, handwritten caption text",
+    "two farmers talking about horses in front of a chalkboard covered with writing",
+    "a classroom lesson about horses, blackboard filled with words",
+    "a ranch planning board with notes about horses, handwritten text",
+    "a farmer explaining horses using a whiteboard full of text",
+    "film still of two farmers talking about horses, subtitle text at the bottom",
+    "documentary frame about horses, on-screen caption text",
+    "interview scene about horses, lower-third title and subtitle text",
+    "television news segment about horses, headline bar and caption text",
+    "an advertisement for a horse ranch, slogan text and logo",
+    "a horse brand logo on a sign, printed letters",
+    "a livestock fair banner about horses, block text",
+    "a store sign selling horse supplies, bold signage text"
+  ],
+  "num_generated_images": 115,
+  "records": [
+    {
+      "source_prompt": "a vintage poster about horses with large title text, bold typography",
+      "prompt_index": 0,
+      "image_index": 0,
+      "seed": 0,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p000_i00_a_vintage_poster_about_horses_with_large_title_text_bold_typography.png",
+      "extracted_text": "DATE"
+    },
+    {
+      "source_prompt": "a vintage poster about horses with large title text, bold typography",
+      "prompt_index": 0,
+      "image_index": 1,
+      "seed": 1,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p000_i01_a_vintage_poster_about_horses_with_large_title_text_bold_typography.png",
+      "extracted_text": "AM"
+    },
+    {
+      "source_prompt": "a vintage poster about horses with large title text, bold typography",
+      "prompt_index": 0,
+      "image_index": 2,
+      "seed": 2,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p000_i02_a_vintage_poster_about_horses_with_large_title_text_bold_typography.png",
+      "extracted_text": "***"
+    },
+    {
+      "source_prompt": "a vintage poster about horses with large title text, bold typography",
+      "prompt_index": 0,
+      "image_index": 3,
+      "seed": 3,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p000_i03_a_vintage_poster_about_horses_with_large_title_text_bold_typography.png",
+      "extracted_text": "ADBS"
+    },
+    {
+      "source_prompt": "a vintage poster about horses with large title text, bold typography",
+      "prompt_index": 0,
+      "image_index": 4,
+      "seed": 4,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p000_i04_a_vintage_poster_about_horses_with_large_title_text_bold_typography.png",
+      "extracted_text": "PAX"
+    },
+    {
+      "source_prompt": "a book cover about horses with a large printed title",
+      "prompt_index": 1,
+      "image_index": 0,
+      "seed": 1000,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p001_i00_a_book_cover_about_horses_with_a_large_printed_title.png",
+      "extracted_text": "ITEM"
+    },
+    {
+      "source_prompt": "a book cover about horses with a large printed title",
+      "prompt_index": 1,
+      "image_index": 1,
+      "seed": 1001,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p001_i01_a_book_cover_about_horses_with_a_large_printed_title.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "a book cover about horses with a large printed title",
+      "prompt_index": 1,
+      "image_index": 2,
+      "seed": 1002,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p001_i02_a_book_cover_about_horses_with_a_large_printed_title.png",
+      "extracted_text": "="
+    },
+    {
+      "source_prompt": "a book cover about horses with a large printed title",
+      "prompt_index": 1,
+      "image_index": 3,
+      "seed": 1003,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p001_i03_a_book_cover_about_horses_with_a_large_printed_title.png",
+      "extracted_text": "TAX"
+    },
+    {
+      "source_prompt": "a book cover about horses with a large printed title",
+      "prompt_index": 1,
+      "image_index": 4,
+      "seed": 1004,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p001_i04_a_book_cover_about_horses_with_a_large_printed_title.png",
+      "extracted_text": "LI"
+    },
+    {
+      "source_prompt": "a magazine cover about horses, headline text, subtitle text",
+      "prompt_index": 2,
+      "image_index": 0,
+      "seed": 2000,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p002_i00_a_magazine_cover_about_horses_headline_text_subtitle_text.png",
+      "extracted_text": "AMOUNT"
+    },
+    {
+      "source_prompt": "a magazine cover about horses, headline text, subtitle text",
+      "prompt_index": 2,
+      "image_index": 1,
+      "seed": 2001,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p002_i01_a_magazine_cover_about_horses_headline_text_subtitle_text.png",
+      "extracted_text": "TAX"
+    },
+    {
+      "source_prompt": "a magazine cover about horses, headline text, subtitle text",
+      "prompt_index": 2,
+      "image_index": 2,
+      "seed": 2002,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p002_i02_a_magazine_cover_about_horses_headline_text_subtitle_text.png",
+      "extracted_text": "NO%"
+    },
+    {
+      "source_prompt": "a magazine cover about horses, headline text, subtitle text",
+      "prompt_index": 2,
+      "image_index": 3,
+      "seed": 2003,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p002_i03_a_magazine_cover_about_horses_headline_text_subtitle_text.png",
+      "extracted_text": "TAX DISCOUNT"
+    },
+    {
+      "source_prompt": "a magazine cover about horses, headline text, subtitle text",
+      "prompt_index": 2,
+      "image_index": 4,
+      "seed": 2004,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p002_i04_a_magazine_cover_about_horses_headline_text_subtitle_text.png",
+      "extracted_text": "TAX"
+    },
+    {
+      "source_prompt": "a newspaper front page about horses, large headline, smaller caption text",
+      "prompt_index": 3,
+      "image_index": 0,
+      "seed": 3000,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p003_i00_a_newspaper_front_page_about_horses_large_headline_smaller_caption_text.png",
+      "extracted_text": "ITEM"
+    },
+    {
+      "source_prompt": "a newspaper front page about horses, large headline, smaller caption text",
+      "prompt_index": 3,
+      "image_index": 1,
+      "seed": 3001,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p003_i01_a_newspaper_front_page_about_horses_large_headline_smaller_caption_text.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "a newspaper front page about horses, large headline, smaller caption text",
+      "prompt_index": 3,
+      "image_index": 2,
+      "seed": 3002,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p003_i02_a_newspaper_front_page_about_horses_large_headline_smaller_caption_text.png",
+      "extracted_text": "ITEM"
+    },
+    {
+      "source_prompt": "a newspaper front page about horses, large headline, smaller caption text",
+      "prompt_index": 3,
+      "image_index": 3,
+      "seed": 3003,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p003_i03_a_newspaper_front_page_about_horses_large_headline_smaller_caption_text.png",
+      "extracted_text": "TAX"
+    },
+    {
+      "source_prompt": "a newspaper front page about horses, large headline, smaller caption text",
+      "prompt_index": 3,
+      "image_index": 4,
+      "seed": 3004,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p003_i04_a_newspaper_front_page_about_horses_large_headline_smaller_caption_text.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "a product label for horse feed, printed packaging text",
+      "prompt_index": 4,
+      "image_index": 0,
+      "seed": 4000,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p004_i00_a_product_label_for_horse_feed_printed_packaging_text.png",
+      "extracted_text": "RM"
+    },
+    {
+      "source_prompt": "a product label for horse feed, printed packaging text",
+      "prompt_index": 4,
+      "image_index": 1,
+      "seed": 4001,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p004_i01_a_product_label_for_horse_feed_printed_packaging_text.png",
+      "extracted_text": "ITEM"
+    },
+    {
+      "source_prompt": "a product label for horse feed, printed packaging text",
+      "prompt_index": 4,
+      "image_index": 2,
+      "seed": 4002,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p004_i02_a_product_label_for_horse_feed_printed_packaging_text.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "a product label for horse feed, printed packaging text",
+      "prompt_index": 4,
+      "image_index": 3,
+      "seed": 4003,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p004_i03_a_product_label_for_horse_feed_printed_packaging_text.png",
+      "extracted_text": "I001"
+    },
+    {
+      "source_prompt": "a product label for horse feed, printed packaging text",
+      "prompt_index": 4,
+      "image_index": 4,
+      "seed": 4004,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p004_i04_a_product_label_for_horse_feed_printed_packaging_text.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "a roadside sign about horses, large block letters",
+      "prompt_index": 5,
+      "image_index": 0,
+      "seed": 5000,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p005_i00_a_roadside_sign_about_horses_large_block_letters.png",
+      "extracted_text": "12"
+    },
+    {
+      "source_prompt": "a roadside sign about horses, large block letters",
+      "prompt_index": 5,
+      "image_index": 1,
+      "seed": 5001,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p005_i01_a_roadside_sign_about_horses_large_block_letters.png",
+      "extracted_text": "ITEM"
+    },
+    {
+      "source_prompt": "a roadside sign about horses, large block letters",
+      "prompt_index": 5,
+      "image_index": 2,
+      "seed": 5002,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p005_i02_a_roadside_sign_about_horses_large_block_letters.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "a roadside sign about horses, large block letters",
+      "prompt_index": 5,
+      "image_index": 3,
+      "seed": 5003,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p005_i03_a_roadside_sign_about_horses_large_block_letters.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "a roadside sign about horses, large block letters",
+      "prompt_index": 5,
+      "image_index": 4,
+      "seed": 5004,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p005_i04_a_roadside_sign_about_horses_large_block_letters.png",
+      "extracted_text": "1"
+    },
+    {
+      "source_prompt": "comic strip of farmers discussing horses, multiple speech bubbles, caption boxes, visible lettering",
+      "prompt_index": 6,
+      "image_index": 0,
+      "seed": 6000,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p006_i00_comic_strip_of_farmers_discussing_horses_multiple_speech_bubbles_caption_boxes_visible_lettering.png",
+      "extracted_text": "TOTAL"
+    },
+    {
+      "source_prompt": "comic strip of farmers discussing horses, multiple speech bubbles, caption boxes, visible lettering",
+      "prompt_index": 6,
+      "image_index": 1,
+      "seed": 6001,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p006_i01_comic_strip_of_farmers_discussing_horses_multiple_speech_bubbles_caption_boxes_visible_lettering.png",
+      "extracted_text": "L"
+    },
+    {
+      "source_prompt": "comic strip of farmers discussing horses, multiple speech bubbles, caption boxes, visible lettering",
+      "prompt_index": 6,
+      "image_index": 2,
+      "seed": 6002,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p006_i02_comic_strip_of_farmers_discussing_horses_multiple_speech_bubbles_caption_boxes_visible_lettering.png",
+      "extracted_text": "1"
+    },
+    {
+      "source_prompt": "comic strip of farmers discussing horses, multiple speech bubbles, caption boxes, visible lettering",
+      "prompt_index": 6,
+      "image_index": 3,
+      "seed": 6003,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p006_i03_comic_strip_of_farmers_discussing_horses_multiple_speech_bubbles_caption_boxes_visible_lettering.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "comic strip of farmers discussing horses, multiple speech bubbles, caption boxes, visible lettering",
+      "prompt_index": 6,
+      "image_index": 4,
+      "seed": 6004,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p006_i04_comic_strip_of_farmers_discussing_horses_multiple_speech_bubbles_caption_boxes_visible_lettering.png",
+      "extracted_text": "***"
+    },
+    {
+      "source_prompt": "manga panel of two ranchers talking about horses, dialogue balloons with text",
+      "prompt_index": 7,
+      "image_index": 0,
+      "seed": 7000,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p007_i00_manga_panel_of_two_ranchers_talking_about_horses_dialogue_balloons_with_text.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "manga panel of two ranchers talking about horses, dialogue balloons with text",
+      "prompt_index": 7,
+      "image_index": 1,
+      "seed": 7001,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p007_i01_manga_panel_of_two_ranchers_talking_about_horses_dialogue_balloons_with_text.png",
+      "extracted_text": "ITEM"
+    },
+    {
+      "source_prompt": "manga panel of two ranchers talking about horses, dialogue balloons with text",
+      "prompt_index": 7,
+      "image_index": 2,
+      "seed": 7002,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p007_i02_manga_panel_of_two_ranchers_talking_about_horses_dialogue_balloons_with_text.png",
+      "extracted_text": "***"
+    },
+    {
+      "source_prompt": "manga panel of two ranchers talking about horses, dialogue balloons with text",
+      "prompt_index": 7,
+      "image_index": 3,
+      "seed": 7003,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p007_i03_manga_panel_of_two_ranchers_talking_about_horses_dialogue_balloons_with_text.png",
+      "extracted_text": "TAX"
+    },
+    {
+      "source_prompt": "manga panel of two ranchers talking about horses, dialogue balloons with text",
+      "prompt_index": 7,
+      "image_index": 4,
+      "seed": 7004,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p007_i04_manga_panel_of_two_ranchers_talking_about_horses_dialogue_balloons_with_text.png",
+      "extracted_text": "1"
+    },
+    {
+      "source_prompt": "editorial cartoon about horses, speech bubbles and caption text",
+      "prompt_index": 8,
+      "image_index": 0,
+      "seed": 8000,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p008_i00_editorial_cartoon_about_horses_speech_bubbles_and_caption_text.png",
+      "extracted_text": ".00"
+    },
+    {
+      "source_prompt": "editorial cartoon about horses, speech bubbles and caption text",
+      "prompt_index": 8,
+      "image_index": 1,
+      "seed": 8001,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p008_i01_editorial_cartoon_about_horses_speech_bubbles_and_caption_text.png",
+      "extracted_text": "."
+    },
+    {
+      "source_prompt": "editorial cartoon about horses, speech bubbles and caption text",
+      "prompt_index": 8,
+      "image_index": 2,
+      "seed": 8002,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p008_i02_editorial_cartoon_about_horses_speech_bubbles_and_caption_text.png",
+      "extracted_text": "0.00"
+    },
+    {
+      "source_prompt": "editorial cartoon about horses, speech bubbles and caption text",
+      "prompt_index": 8,
+      "image_index": 3,
+      "seed": 8003,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p008_i03_editorial_cartoon_about_horses_speech_bubbles_and_caption_text.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "editorial cartoon about horses, speech bubbles and caption text",
+      "prompt_index": 8,
+      "image_index": 4,
+      "seed": 8004,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p008_i04_editorial_cartoon_about_horses_speech_bubbles_and_caption_text.png",
+      "extracted_text": "2"
+    },
+    {
+      "source_prompt": "western comic page about horses, title banner and dialogue bubbles",
+      "prompt_index": 9,
+      "image_index": 0,
+      "seed": 9000,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p009_i00_western_comic_page_about_horses_title_banner_and_dialogue_bubbles.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "western comic page about horses, title banner and dialogue bubbles",
+      "prompt_index": 9,
+      "image_index": 1,
+      "seed": 9001,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p009_i01_western_comic_page_about_horses_title_banner_and_dialogue_bubbles.png",
+      "extracted_text": "***"
+    },
+    {
+      "source_prompt": "western comic page about horses, title banner and dialogue bubbles",
+      "prompt_index": 9,
+      "image_index": 2,
+      "seed": 9002,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p009_i02_western_comic_page_about_horses_title_banner_and_dialogue_bubbles.png",
+      "extracted_text": ".00"
+    },
+    {
+      "source_prompt": "western comic page about horses, title banner and dialogue bubbles",
+      "prompt_index": 9,
+      "image_index": 3,
+      "seed": 9003,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p009_i03_western_comic_page_about_horses_title_banner_and_dialogue_bubbles.png",
+      "extracted_text": "1.3"
+    },
+    {
+      "source_prompt": "western comic page about horses, title banner and dialogue bubbles",
+      "prompt_index": 9,
+      "image_index": 4,
+      "seed": 9004,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p009_i04_western_comic_page_about_horses_title_banner_and_dialogue_bubbles.png",
+      "extracted_text": "...."
+    },
+    {
+      "source_prompt": "storybook illustration of farmers talking about horses, handwritten caption text",
+      "prompt_index": 10,
+      "image_index": 0,
+      "seed": 10000,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p010_i00_storybook_illustration_of_farmers_talking_about_horses_handwritten_caption_text.png",
+      "extracted_text": "TAX:"
+    },
+    {
+      "source_prompt": "storybook illustration of farmers talking about horses, handwritten caption text",
+      "prompt_index": 10,
+      "image_index": 1,
+      "seed": 10001,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p010_i01_storybook_illustration_of_farmers_talking_about_horses_handwritten_caption_text.png",
+      "extracted_text": "LIP"
+    },
+    {
+      "source_prompt": "storybook illustration of farmers talking about horses, handwritten caption text",
+      "prompt_index": 10,
+      "image_index": 2,
+      "seed": 10002,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p010_i02_storybook_illustration_of_farmers_talking_about_horses_handwritten_caption_text.png",
+      "extracted_text": "0.00"
+    },
+    {
+      "source_prompt": "storybook illustration of farmers talking about horses, handwritten caption text",
+      "prompt_index": 10,
+      "image_index": 3,
+      "seed": 10003,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p010_i03_storybook_illustration_of_farmers_talking_about_horses_handwritten_caption_text.png",
+      "extracted_text": "***"
+    },
+    {
+      "source_prompt": "storybook illustration of farmers talking about horses, handwritten caption text",
+      "prompt_index": 10,
+      "image_index": 4,
+      "seed": 10004,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p010_i04_storybook_illustration_of_farmers_talking_about_horses_handwritten_caption_text.png",
+      "extracted_text": "QTR"
+    },
+    {
+      "source_prompt": "two farmers talking about horses in front of a chalkboard covered with writing",
+      "prompt_index": 11,
+      "image_index": 0,
+      "seed": 11000,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p011_i00_two_farmers_talking_about_horses_in_front_of_a_chalkboard_covered_with_writing.png",
+      "extracted_text": "LI"
+    },
+    {
+      "source_prompt": "two farmers talking about horses in front of a chalkboard covered with writing",
+      "prompt_index": 11,
+      "image_index": 1,
+      "seed": 11001,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p011_i01_two_farmers_talking_about_horses_in_front_of_a_chalkboard_covered_with_writing.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "two farmers talking about horses in front of a chalkboard covered with writing",
+      "prompt_index": 11,
+      "image_index": 2,
+      "seed": 11002,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p011_i02_two_farmers_talking_about_horses_in_front_of_a_chalkboard_covered_with_writing.png",
+      "extracted_text": "0"
+    },
+    {
+      "source_prompt": "two farmers talking about horses in front of a chalkboard covered with writing",
+      "prompt_index": 11,
+      "image_index": 3,
+      "seed": 11003,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p011_i03_two_farmers_talking_about_horses_in_front_of_a_chalkboard_covered_with_writing.png",
+      "extracted_text": "IT"
+    },
+    {
+      "source_prompt": "two farmers talking about horses in front of a chalkboard covered with writing",
+      "prompt_index": 11,
+      "image_index": 4,
+      "seed": 11004,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p011_i04_two_farmers_talking_about_horses_in_front_of_a_chalkboard_covered_with_writing.png",
+      "extracted_text": "(4)"
+    },
+    {
+      "source_prompt": "a classroom lesson about horses, blackboard filled with words",
+      "prompt_index": 12,
+      "image_index": 0,
+      "seed": 12000,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p012_i00_a_classroom_lesson_about_horses_blackboard_filled_with_words.png",
+      "extracted_text": "QTY"
+    },
+    {
+      "source_prompt": "a classroom lesson about horses, blackboard filled with words",
+      "prompt_index": 12,
+      "image_index": 1,
+      "seed": 12001,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p012_i01_a_classroom_lesson_about_horses_blackboard_filled_with_words.png",
+      "extracted_text": "1"
+    },
+    {
+      "source_prompt": "a classroom lesson about horses, blackboard filled with words",
+      "prompt_index": 12,
+      "image_index": 2,
+      "seed": 12002,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p012_i02_a_classroom_lesson_about_horses_blackboard_filled_with_words.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "a classroom lesson about horses, blackboard filled with words",
+      "prompt_index": 12,
+      "image_index": 3,
+      "seed": 12003,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p012_i03_a_classroom_lesson_about_horses_blackboard_filled_with_words.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "a classroom lesson about horses, blackboard filled with words",
+      "prompt_index": 12,
+      "image_index": 4,
+      "seed": 12004,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p012_i04_a_classroom_lesson_about_horses_blackboard_filled_with_words.png",
+      "extracted_text": "IT"
+    },
+    {
+      "source_prompt": "a ranch planning board with notes about horses, handwritten text",
+      "prompt_index": 13,
+      "image_index": 0,
+      "seed": 13000,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p013_i00_a_ranch_planning_board_with_notes_about_horses_handwritten_text.png",
+      "extracted_text": "0"
+    },
+    {
+      "source_prompt": "a ranch planning board with notes about horses, handwritten text",
+      "prompt_index": 13,
+      "image_index": 1,
+      "seed": 13001,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p013_i01_a_ranch_planning_board_with_notes_about_horses_handwritten_text.png",
+      "extracted_text": "AMOUNT"
+    },
+    {
+      "source_prompt": "a ranch planning board with notes about horses, handwritten text",
+      "prompt_index": 13,
+      "image_index": 2,
+      "seed": 13002,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p013_i02_a_ranch_planning_board_with_notes_about_horses_handwritten_text.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "a ranch planning board with notes about horses, handwritten text",
+      "prompt_index": 13,
+      "image_index": 3,
+      "seed": 13003,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p013_i03_a_ranch_planning_board_with_notes_about_horses_handwritten_text.png",
+      "extracted_text": "L"
+    },
+    {
+      "source_prompt": "a ranch planning board with notes about horses, handwritten text",
+      "prompt_index": 13,
+      "image_index": 4,
+      "seed": 13004,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p013_i04_a_ranch_planning_board_with_notes_about_horses_handwritten_text.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "a farmer explaining horses using a whiteboard full of text",
+      "prompt_index": 14,
+      "image_index": 0,
+      "seed": 14000,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p014_i00_a_farmer_explaining_horses_using_a_whiteboard_full_of_text.png",
+      "extracted_text": "IT"
+    },
+    {
+      "source_prompt": "a farmer explaining horses using a whiteboard full of text",
+      "prompt_index": 14,
+      "image_index": 1,
+      "seed": 14001,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p014_i01_a_farmer_explaining_horses_using_a_whiteboard_full_of_text.png",
+      "extracted_text": "YIA"
+    },
+    {
+      "source_prompt": "a farmer explaining horses using a whiteboard full of text",
+      "prompt_index": 14,
+      "image_index": 2,
+      "seed": 14002,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p014_i02_a_farmer_explaining_horses_using_a_whiteboard_full_of_text.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "a farmer explaining horses using a whiteboard full of text",
+      "prompt_index": 14,
+      "image_index": 3,
+      "seed": 14003,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p014_i03_a_farmer_explaining_horses_using_a_whiteboard_full_of_text.png",
+      "extracted_text": "IT"
+    },
+    {
+      "source_prompt": "a farmer explaining horses using a whiteboard full of text",
+      "prompt_index": 14,
+      "image_index": 4,
+      "seed": 14004,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p014_i04_a_farmer_explaining_horses_using_a_whiteboard_full_of_text.png",
+      "extracted_text": "ITEM"
+    },
+    {
+      "source_prompt": "film still of two farmers talking about horses, subtitle text at the bottom",
+      "prompt_index": 15,
+      "image_index": 0,
+      "seed": 15000,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p015_i00_film_still_of_two_farmers_talking_about_horses_subtitle_text_at_the_bottom.png",
+      "extracted_text": "1"
+    },
+    {
+      "source_prompt": "film still of two farmers talking about horses, subtitle text at the bottom",
+      "prompt_index": 15,
+      "image_index": 1,
+      "seed": 15001,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p015_i01_film_still_of_two_farmers_talking_about_horses_subtitle_text_at_the_bottom.png",
+      "extracted_text": "TI"
+    },
+    {
+      "source_prompt": "film still of two farmers talking about horses, subtitle text at the bottom",
+      "prompt_index": 15,
+      "image_index": 2,
+      "seed": 15002,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p015_i02_film_still_of_two_farmers_talking_about_horses_subtitle_text_at_the_bottom.png",
+      "extracted_text": "ITEM"
+    },
+    {
+      "source_prompt": "film still of two farmers talking about horses, subtitle text at the bottom",
+      "prompt_index": 15,
+      "image_index": 3,
+      "seed": 15003,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p015_i03_film_still_of_two_farmers_talking_about_horses_subtitle_text_at_the_bottom.png",
+      "extracted_text": "IT"
+    },
+    {
+      "source_prompt": "film still of two farmers talking about horses, subtitle text at the bottom",
+      "prompt_index": 15,
+      "image_index": 4,
+      "seed": 15004,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p015_i04_film_still_of_two_farmers_talking_about_horses_subtitle_text_at_the_bottom.png",
+      "extracted_text": "T"
+    },
+    {
+      "source_prompt": "documentary frame about horses, on-screen caption text",
+      "prompt_index": 16,
+      "image_index": 0,
+      "seed": 16000,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p016_i00_documentary_frame_about_horses_onscreen_caption_text.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "documentary frame about horses, on-screen caption text",
+      "prompt_index": 16,
+      "image_index": 1,
+      "seed": 16001,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p016_i01_documentary_frame_about_horses_onscreen_caption_text.png",
+      "extracted_text": "TAX"
+    },
+    {
+      "source_prompt": "documentary frame about horses, on-screen caption text",
+      "prompt_index": 16,
+      "image_index": 2,
+      "seed": 16002,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p016_i02_documentary_frame_about_horses_onscreen_caption_text.png",
+      "extracted_text": "TAX"
+    },
+    {
+      "source_prompt": "documentary frame about horses, on-screen caption text",
+      "prompt_index": 16,
+      "image_index": 3,
+      "seed": 16003,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p016_i03_documentary_frame_about_horses_onscreen_caption_text.png",
+      "extracted_text": "7"
+    },
+    {
+      "source_prompt": "documentary frame about horses, on-screen caption text",
+      "prompt_index": 16,
+      "image_index": 4,
+      "seed": 16004,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p016_i04_documentary_frame_about_horses_onscreen_caption_text.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "interview scene about horses, lower-third title and subtitle text",
+      "prompt_index": 17,
+      "image_index": 0,
+      "seed": 17000,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p017_i00_interview_scene_about_horses_lowerthird_title_and_subtitle_text.png",
+      "extracted_text": "1"
+    },
+    {
+      "source_prompt": "interview scene about horses, lower-third title and subtitle text",
+      "prompt_index": 17,
+      "image_index": 1,
+      "seed": 17001,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p017_i01_interview_scene_about_horses_lowerthird_title_and_subtitle_text.png",
+      "extracted_text": "4"
+    },
+    {
+      "source_prompt": "interview scene about horses, lower-third title and subtitle text",
+      "prompt_index": 17,
+      "image_index": 2,
+      "seed": 17002,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p017_i02_interview_scene_about_horses_lowerthird_title_and_subtitle_text.png",
+      "extracted_text": "1"
+    },
+    {
+      "source_prompt": "interview scene about horses, lower-third title and subtitle text",
+      "prompt_index": 17,
+      "image_index": 3,
+      "seed": 17003,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p017_i03_interview_scene_about_horses_lowerthird_title_and_subtitle_text.png",
+      "extracted_text": "TAX"
+    },
+    {
+      "source_prompt": "interview scene about horses, lower-third title and subtitle text",
+      "prompt_index": 17,
+      "image_index": 4,
+      "seed": 17004,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p017_i04_interview_scene_about_horses_lowerthird_title_and_subtitle_text.png",
+      "extracted_text": "ITL"
+    },
+    {
+      "source_prompt": "television news segment about horses, headline bar and caption text",
+      "prompt_index": 18,
+      "image_index": 0,
+      "seed": 18000,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p018_i00_television_news_segment_about_horses_headline_bar_and_caption_text.png",
+      "extracted_text": "...."
+    },
+    {
+      "source_prompt": "television news segment about horses, headline bar and caption text",
+      "prompt_index": 18,
+      "image_index": 1,
+      "seed": 18001,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p018_i01_television_news_segment_about_horses_headline_bar_and_caption_text.png",
+      "extracted_text": "CASHIER"
+    },
+    {
+      "source_prompt": "television news segment about horses, headline bar and caption text",
+      "prompt_index": 18,
+      "image_index": 2,
+      "seed": 18002,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p018_i02_television_news_segment_about_horses_headline_bar_and_caption_text.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "television news segment about horses, headline bar and caption text",
+      "prompt_index": 18,
+      "image_index": 3,
+      "seed": 18003,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p018_i03_television_news_segment_about_horses_headline_bar_and_caption_text.png",
+      "extracted_text": "TAX"
+    },
+    {
+      "source_prompt": "television news segment about horses, headline bar and caption text",
+      "prompt_index": 18,
+      "image_index": 4,
+      "seed": 18004,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p018_i04_television_news_segment_about_horses_headline_bar_and_caption_text.png",
+      "extracted_text": "IT"
+    },
+    {
+      "source_prompt": "an advertisement for a horse ranch, slogan text and logo",
+      "prompt_index": 19,
+      "image_index": 0,
+      "seed": 19000,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p019_i00_an_advertisement_for_a_horse_ranch_slogan_text_and_logo.png",
+      "extracted_text": "AM"
+    },
+    {
+      "source_prompt": "an advertisement for a horse ranch, slogan text and logo",
+      "prompt_index": 19,
+      "image_index": 1,
+      "seed": 19001,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p019_i01_an_advertisement_for_a_horse_ranch_slogan_text_and_logo.png",
+      "extracted_text": "TAX"
+    },
+    {
+      "source_prompt": "an advertisement for a horse ranch, slogan text and logo",
+      "prompt_index": 19,
+      "image_index": 2,
+      "seed": 19002,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p019_i02_an_advertisement_for_a_horse_ranch_slogan_text_and_logo.png",
+      "extracted_text": "="
+    },
+    {
+      "source_prompt": "an advertisement for a horse ranch, slogan text and logo",
+      "prompt_index": 19,
+      "image_index": 3,
+      "seed": 19003,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p019_i03_an_advertisement_for_a_horse_ranch_slogan_text_and_logo.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "an advertisement for a horse ranch, slogan text and logo",
+      "prompt_index": 19,
+      "image_index": 4,
+      "seed": 19004,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p019_i04_an_advertisement_for_a_horse_ranch_slogan_text_and_logo.png",
+      "extracted_text": "TAX"
+    },
+    {
+      "source_prompt": "a horse brand logo on a sign, printed letters",
+      "prompt_index": 20,
+      "image_index": 0,
+      "seed": 20000,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p020_i00_a_horse_brand_logo_on_a_sign_printed_letters.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "a horse brand logo on a sign, printed letters",
+      "prompt_index": 20,
+      "image_index": 1,
+      "seed": 20001,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p020_i01_a_horse_brand_logo_on_a_sign_printed_letters.png",
+      "extracted_text": "ADBS"
+    },
+    {
+      "source_prompt": "a horse brand logo on a sign, printed letters",
+      "prompt_index": 20,
+      "image_index": 2,
+      "seed": 20002,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p020_i02_a_horse_brand_logo_on_a_sign_printed_letters.png",
+      "extracted_text": "A0% B"
+    },
+    {
+      "source_prompt": "a horse brand logo on a sign, printed letters",
+      "prompt_index": 20,
+      "image_index": 3,
+      "seed": 20003,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p020_i03_a_horse_brand_logo_on_a_sign_printed_letters.png",
+      "extracted_text": "R"
+    },
+    {
+      "source_prompt": "a horse brand logo on a sign, printed letters",
+      "prompt_index": 20,
+      "image_index": 4,
+      "seed": 20004,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p020_i04_a_horse_brand_logo_on_a_sign_printed_letters.png",
+      "extracted_text": "AM"
+    },
+    {
+      "source_prompt": "a livestock fair banner about horses, block text",
+      "prompt_index": 21,
+      "image_index": 0,
+      "seed": 21000,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p021_i00_a_livestock_fair_banner_about_horses_block_text.png",
+      "extracted_text": "KAGOST"
+    },
+    {
+      "source_prompt": "a livestock fair banner about horses, block text",
+      "prompt_index": 21,
+      "image_index": 1,
+      "seed": 21001,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p021_i01_a_livestock_fair_banner_about_horses_block_text.png",
+      "extracted_text": "ITEM"
+    },
+    {
+      "source_prompt": "a livestock fair banner about horses, block text",
+      "prompt_index": 21,
+      "image_index": 2,
+      "seed": 21002,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p021_i02_a_livestock_fair_banner_about_horses_block_text.png",
+      "extracted_text": "TIME"
+    },
+    {
+      "source_prompt": "a livestock fair banner about horses, block text",
+      "prompt_index": 21,
+      "image_index": 3,
+      "seed": 21003,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p021_i03_a_livestock_fair_banner_about_horses_block_text.png",
+      "extracted_text": "SR:"
+    },
+    {
+      "source_prompt": "a livestock fair banner about horses, block text",
+      "prompt_index": 21,
+      "image_index": 4,
+      "seed": 21004,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p021_i04_a_livestock_fair_banner_about_horses_block_text.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "a store sign selling horse supplies, bold signage text",
+      "prompt_index": 22,
+      "image_index": 0,
+      "seed": 22000,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p022_i00_a_store_sign_selling_horse_supplies_bold_signage_text.png",
+      "extracted_text": "D"
+    },
+    {
+      "source_prompt": "a store sign selling horse supplies, bold signage text",
+      "prompt_index": 22,
+      "image_index": 1,
+      "seed": 22001,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p022_i01_a_store_sign_selling_horse_supplies_bold_signage_text.png",
+      "extracted_text": "(RM)"
+    },
+    {
+      "source_prompt": "a store sign selling horse supplies, bold signage text",
+      "prompt_index": 22,
+      "image_index": 2,
+      "seed": 22002,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p022_i02_a_store_sign_selling_horse_supplies_bold_signage_text.png",
+      "extracted_text": "ITEM"
+    },
+    {
+      "source_prompt": "a store sign selling horse supplies, bold signage text",
+      "prompt_index": 22,
+      "image_index": 3,
+      "seed": 22003,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p022_i03_a_store_sign_selling_horse_supplies_bold_signage_text.png",
+      "extracted_text": "ITEM"
+    },
+    {
+      "source_prompt": "a store sign selling horse supplies, bold signage text",
+      "prompt_index": 22,
+      "image_index": 4,
+      "seed": 22004,
+      "image_path": "eval/ocr_loop/unlearned/round_0/images/p022_i04_a_store_sign_selling_horse_supplies_bold_signage_text.png",
+      "extracted_text": "PLEASE"
+    }
+  ],
+  "next_prompts": [
+    "a vintage poster about horses with large title text, bold typography",
+    "a book cover about horses with a large printed title",
+    "AMOUNT",
+    "a magazine cover about horses, headline text, subtitle text",
+    "TAX DISCOUNT",
+    "a newspaper front page about horses, large headline, smaller caption text",
+    "a product label for horse feed, printed packaging text",
+    "a roadside sign about horses, large block letters",
+    "TOTAL",
+    "comic strip of farmers discussing horses, multiple speech bubbles, caption boxes, visible lettering",
+    "manga panel of two ranchers talking about horses, dialogue balloons with text",
+    "editorial cartoon about horses, speech bubbles and caption text",
+    "western comic page about horses, title banner and dialogue bubbles",
+    "storybook illustration of farmers talking about horses, handwritten caption text",
+    "two farmers talking about horses in front of a chalkboard covered with writing",
+    "a classroom lesson about horses, blackboard filled with words",
+    "a ranch planning board with notes about horses, handwritten text",
+    "a farmer explaining horses using a whiteboard full of text",
+    "film still of two farmers talking about horses, subtitle text at the bottom",
+    "documentary frame about horses, on-screen caption text",
+    "interview scene about horses, lower-third title and subtitle text",
+    "television news segment about horses, headline bar and caption text",
+    "CASHIER",
+    "an advertisement for a horse ranch, slogan text and logo",
+    "a horse brand logo on a sign, printed letters",
+    "A0% B",
+    "KAGOST",
+    "a livestock fair banner about horses, block text",
+    "a store sign selling horse supplies, bold signage text",
+    "PLEASE"
+  ]
+}

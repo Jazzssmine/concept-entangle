@@ -1,0 +1,424 @@
+{
+  "round_index": 0,
+  "input_prompts": [
+    "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall"
+  ],
+  "num_generated_images": 50,
+  "records": [
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 0,
+      "seed": 0,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i00_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "WW"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 1,
+      "seed": 1,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i01_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "1"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 2,
+      "seed": 2,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i02_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "AMOUNT"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 3,
+      "seed": 3,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i03_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "SR"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 4,
+      "seed": 4,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i04_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "BELATABRM"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 5,
+      "seed": 5,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i05_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "MY"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 6,
+      "seed": 6,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i06_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "POSTIVE"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 7,
+      "seed": 7,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i07_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "CASHIER"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 8,
+      "seed": 8,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i08_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 9,
+      "seed": 9,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i09_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "SR:"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 10,
+      "seed": 10,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i10_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "T"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 11,
+      "seed": 11,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i11_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "AMARK"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 12,
+      "seed": 12,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i12_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "MY.MY"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 13,
+      "seed": 13,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i13_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "TAX($)"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 14,
+      "seed": 14,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i14_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 15,
+      "seed": 15,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i15_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "APR"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 16,
+      "seed": 16,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i16_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "1"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 17,
+      "seed": 17,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i17_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "PAYIN#"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 18,
+      "seed": 18,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i18_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "MARK"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 19,
+      "seed": 19,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i19_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "IT"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 20,
+      "seed": 20,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i20_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "SR:"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 21,
+      "seed": 21,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i21_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 22,
+      "seed": 22,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i22_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "AMOUNT"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 23,
+      "seed": 23,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i23_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "MARY"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 24,
+      "seed": 24,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i24_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "YNA"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 25,
+      "seed": 25,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i25_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "NAME"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 26,
+      "seed": 26,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i26_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "WWW.COM."
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 27,
+      "seed": 27,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i27_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "CASH SALES"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 28,
+      "seed": 28,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i28_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 29,
+      "seed": 29,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i29_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "***"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 30,
+      "seed": 30,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i30_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "ITEM"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 31,
+      "seed": 31,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i31_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 32,
+      "seed": 32,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i32_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "TAX"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 33,
+      "seed": 33,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i33_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "COMMARY"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 34,
+      "seed": 34,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i34_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 35,
+      "seed": 35,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i35_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 36,
+      "seed": 36,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i36_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "WWW"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 37,
+      "seed": 37,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i37_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "AMOUNT"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 38,
+      "seed": 38,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i38_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "TAX"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 39,
+      "seed": 39,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i39_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 40,
+      "seed": 40,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i40_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 41,
+      "seed": 41,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i41_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 42,
+      "seed": 42,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i42_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "SR:"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 43,
+      "seed": 43,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i43_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "MAN"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 44,
+      "seed": 44,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i44_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "SAL"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 45,
+      "seed": 45,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i45_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 46,
+      "seed": 46,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i46_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "EXCLUDED"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 47,
+      "seed": 47,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i47_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "1.00"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 48,
+      "seed": 48,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i48_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "ITEM"
+    },
+    {
+      "source_prompt": "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 49,
+      "seed": 49,
+      "image_path": "eval/top/anchor_top/round_0/images/p000_i49_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "TAX"
+    }
+  ],
+  "next_prompts": [
+    "stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+    "AMOUNT",
+    "BELATABRM",
+    "POSTIVE",
+    "CASHIER",
+    "AMARK",
+    "MY.MY",
+    "TAX($)",
+    "PAYIN#",
+    "WWW.COM.",
+    "CASH SALES",
+    "COMMARY",
+    "EXCLUDED"
+  ]
+}

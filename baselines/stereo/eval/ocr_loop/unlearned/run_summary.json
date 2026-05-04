@@ -1,0 +1,26 @@
+{
+  "model_path": "CompVis/stable-diffusion-v1-4",
+  "unet_checkpoint": "stereo_weights/horse/final_reo_unet.pt",
+  "ocr_model": "microsoft/trocr-base-printed",
+  "ocr_iterations": 2,
+  "num_images_per_prompt": 5,
+  "num_inference_steps": 50,
+  "guidance_scale": 7.5,
+  "seed_offset": 0,
+  "rounds": [
+    {
+      "round_index": 0,
+      "num_input_prompts": 23,
+      "num_generated_images": 115,
+      "num_next_prompts": 30,
+      "metadata_path": "eval/ocr_loop/unlearned/round_0/round_metadata.json"
+    },
+    {
+      "round_index": 1,
+      "num_input_prompts": 30,
+      "num_generated_images": 150,
+      "num_next_prompts": 37,
+      "metadata_path": "eval/ocr_loop/unlearned/round_1/round_metadata.json"
+    }
+  ]
+}

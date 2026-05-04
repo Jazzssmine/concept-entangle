@@ -1,0 +1,116 @@
+{
+  "target": "castle",
+  "lexical_set": {
+    "strict": [
+      "castle",
+      "castles"
+    ],
+    "broad": [
+      "castle",
+      "castles"
+    ]
+  },
+  "context_words": {
+    "raw_candidates": [],
+    "final_top_k": [
+      "medieval wall|arched gate|inner ward",
+      "dungeon|iron gate|stone corridor",
+      "fortress wall|watchfire|armory",
+      "royal hall|stone stair|banner",
+      "walled bailey|guard post|torch sconces",
+      "fortified walls|drawbridge chain|moat water",
+      "ancient wall|arrow loop|inner court",
+      "stone keep|banner|courtyard",
+      "tower silhouette|fog|moonlight",
+      "bridge parapet|stone buttress|riverbank",
+      "stone gateway|wet moat|drawbridge",
+      "market square|gate arch|bell tower",
+      "chamber doorway|stone columns|iron hinge",
+      "misty dawn|high walls|banner",
+      "siege engine|reinforced gate|defensive ditch",
+      "battlement|portcullis|rampart",
+      "armored guard|wall walk|gate tower",
+      "throne room|tapestry|chandelier",
+      "bridge crossing|stone arch|river mist",
+      "royal chamber|mural|arched corridor",
+      "winter snowfall|rampart|watchtower",
+      "inner ward|outer wall|portcullis",
+      "training yard|armory door|stone wall",
+      "medieval town|cobblestone|gatehouse",
+      "royal procession|banner line|drum tower",
+      "guardhouse|stone ramp|courtyard well",
+      "gate passage|hanging banner|torch glow",
+      "dungeon|iron gate|torchlight",
+      "siege tower debris|reinforced gate|wall walk",
+      "keep tower|arrow slit|watch platform",
+      "old kingdom|heraldic emblem|great hall",
+      "royal chamber|stone balcony|banner",
+      "gothic masonry|courtyard fountain|oak door",
+      "wall mural|arched gate|inner bailey",
+      "rampart edge|watch platform|courtyard",
+      "old masonry|weathered battlement|gate arch",
+      "medieval stronghold|outer wall|gatehouse",
+      "turret roof|stone arch|torchlit hallway",
+      "fantasy realm|stone battlement|courtyard",
+      "moat|drawbridge|turret",
+      "stone wall|watchtower|archway",
+      "medieval masonry|walled yard|portcullis",
+      "chapel wing|vaulted ceiling|stone column",
+      "medieval feast hall|oak table|tapestry",
+      "sunset skyline|tower|bridge",
+      "ring wall|stone tower|arched doorway",
+      "watchtower|gatehouse|parapet",
+      "battlement|rampart|portcullis",
+      "courtyard fountain|banner line|guard post",
+      "cathedral spire|flying buttress|rose window"
+    ],
+    "n_captions_target_match": 0,
+    "n_captions_total": 0
+  },
+  "semantic_neighbors": {
+    "candidates_ranked": [],
+    "final_top_k": [
+      "cathedral",
+      "citadel",
+      "fortified wall",
+      "fortress",
+      "keep",
+      "manor",
+      "palace",
+      "stronghold",
+      "tower",
+      "watchtower"
+    ]
+  },
+  "non_neighbor_controls": {
+    "candidates_ranked": [],
+    "final_top_k": [
+      "airplane",
+      "bicycle",
+      "cactus",
+      "jellyfish",
+      "lighthouse",
+      "melon",
+      "police car",
+      "teapot",
+      "violin",
+      "volcano"
+    ],
+    "selection_metadata": {
+      "source": "derived_from_prompt_csv",
+      "notes": "Trimmed clean concept set for anonymous release."
+    }
+  },
+  "metadata": {
+    "embedding_provider": "not_applicable_clean_release",
+    "prompt_template": "not_applicable_clean_release",
+    "include_corpus_cooccurrence": false,
+    "context_lexical_mode": "strict",
+    "min_frequency": null,
+    "min_neighbor_similarity": null,
+    "max_control_similarity": null,
+    "max_control_cooccurrence_df": null,
+    "max_control_pmi": null,
+    "generated_from": "castle_prompts.csv"
+  }
+}

@@ -1,0 +1,1 @@
+{"expansion_factor": 16, "normalize_decoder": true, "num_latents": 0, "k": 32, "batch_topk": false, "sample_topk": false, "input_unit_norm": false, "multi_topk": false, "d_in": 1280}

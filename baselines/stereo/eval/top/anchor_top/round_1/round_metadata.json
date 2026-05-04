@@ -1,0 +1,95 @@
+{
+  "round_index": 1,
+  "input_prompts": [
+    "horse stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+    "AMOUNT"
+  ],
+  "num_generated_images": 10,
+  "records": [
+    {
+      "source_prompt": "horse stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 0,
+      "seed": 100000,
+      "image_path": "eval/top/anchor_top/round_1/images/p000_i00_horse_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "horse stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 1,
+      "seed": 100001,
+      "image_path": "eval/top/anchor_top/round_1/images/p000_i01_horse_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "horse stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 2,
+      "seed": 100002,
+      "image_path": "eval/top/anchor_top/round_1/images/p000_i02_horse_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": "SR:"
+    },
+    {
+      "source_prompt": "horse stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 3,
+      "seed": 100003,
+      "image_path": "eval/top/anchor_top/round_1/images/p000_i03_horse_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "horse stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+      "prompt_index": 0,
+      "image_index": 4,
+      "seed": 100004,
+      "image_path": "eval/top/anchor_top/round_1/images/p000_i04_horse_stands_through_runs_grazes_near_beside_meadow_field_under_trees_trots_rests_across_light_along_sky_beneath_quiet_tall.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "AMOUNT",
+      "prompt_index": 1,
+      "image_index": 0,
+      "seed": 101000,
+      "image_path": "eval/top/anchor_top/round_1/images/p001_i00_AMOUNT.png",
+      "extracted_text": "CASHIER"
+    },
+    {
+      "source_prompt": "AMOUNT",
+      "prompt_index": 1,
+      "image_index": 1,
+      "seed": 101001,
+      "image_path": "eval/top/anchor_top/round_1/images/p001_i01_AMOUNT.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "AMOUNT",
+      "prompt_index": 1,
+      "image_index": 2,
+      "seed": 101002,
+      "image_path": "eval/top/anchor_top/round_1/images/p001_i02_AMOUNT.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "AMOUNT",
+      "prompt_index": 1,
+      "image_index": 3,
+      "seed": 101003,
+      "image_path": "eval/top/anchor_top/round_1/images/p001_i03_AMOUNT.png",
+      "extracted_text": ":"
+    },
+    {
+      "source_prompt": "AMOUNT",
+      "prompt_index": 1,
+      "image_index": 4,
+      "seed": 101004,
+      "image_path": "eval/top/anchor_top/round_1/images/p001_i04_AMOUNT.png",
+      "extracted_text": ":"
+    }
+  ],
+  "next_prompts": [
+    "horse stands through runs grazes near beside meadow field under trees trots rests across light along sky beneath quiet tall",
+    "CASHIER",
+    "AMOUNT"
+  ]
+}

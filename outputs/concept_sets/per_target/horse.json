@@ -1,0 +1,116 @@
+{
+  "target": "horse",
+  "lexical_set": {
+    "strict": [
+      "horse",
+      "horses"
+    ],
+    "broad": [
+      "horse",
+      "horses"
+    ]
+  },
+  "context_words": {
+    "raw_candidates": [],
+    "final_top_k": [
+      "standing|grassy|field",
+      "horze|standing|field",
+      "equestrian|arena|jumps",
+      "still|life|sunflowers",
+      "bustling|tokyo|street",
+      "knight|armor|riding",
+      "leather|saddle|bridle",
+      "racetrack|sprinting|stable",
+      "vintage|poster|typography",
+      "jockey|preparing|before",
+      "prepared|training|gear",
+      "brand|logo|sign",
+      "sprinting|field|stable",
+      "person|riding|field",
+      "free|stock|farm",
+      "jockey|riding|during",
+      "dialogue bubbles|western|comic",
+      "black|stallion|rearing",
+      "rider|guiding|along",
+      "jockey|adjusting|gear",
+      "rider|holding|reins",
+      "wearing|leather|saddle",
+      "advertisement|ranch|slogan",
+      "saddled|waiting|calmly",
+      "product|label|feed",
+      "macro|butterfly|purple",
+      "finish line|thoroughbred|crossing",
+      "horseback|rider|traveling",
+      "racehorse|jockey|moving",
+      "racetrack|jockey|adjusting",
+      "looking|toward|camera",
+      "person|riding|wide",
+      "standing|beside|tree",
+      "dressage|western|black",
+      "store|sign|selling",
+      "riding|accessories|attached",
+      "wild|galloping|freely",
+      "black beauty|black|beauty",
+      "white|galloping|free stock",
+      "rural|landscape|stable",
+      "wooden|gate|stable",
+      "resting|wooden|fence",
+      "classic|paintings|stable",
+      "cowboy|denim|boots",
+      "rider|guiding|polo",
+      "medieval|stone|castle",
+      "finish line|crossing|finish",
+      "art|saddle|carousel",
+      "person|riding|forest",
+      "young|quiet|pasture"
+    ],
+    "n_captions_target_match": 0,
+    "n_captions_total": 0
+  },
+  "semantic_neighbors": {
+    "candidates_ranked": [],
+    "final_top_k": [
+      "bison",
+      "camel",
+      "donkey",
+      "foal",
+      "mare",
+      "mule",
+      "mustang",
+      "pony",
+      "stallion",
+      "zebra"
+    ]
+  },
+  "non_neighbor_controls": {
+    "candidates_ranked": [],
+    "final_top_k": [
+      "airplane",
+      "bicycle",
+      "cactus",
+      "jellyfish",
+      "lighthouse",
+      "melon",
+      "police car",
+      "teapot",
+      "violin",
+      "volcano"
+    ],
+    "selection_metadata": {
+      "source": "derived_from_prompt_csv",
+      "notes": "Trimmed clean concept set for anonymous release."
+    }
+  },
+  "metadata": {
+    "embedding_provider": "not_applicable_clean_release",
+    "prompt_template": "not_applicable_clean_release",
+    "include_corpus_cooccurrence": false,
+    "context_lexical_mode": "strict",
+    "min_frequency": null,
+    "min_neighbor_similarity": null,
+    "max_control_similarity": null,
+    "max_control_cooccurrence_df": null,
+    "max_control_pmi": null,
+    "generated_from": "horse_prompts.csv"
+  }
+}

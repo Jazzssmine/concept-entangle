@@ -1,0 +1,74 @@
+{
+  "target": "dog",
+  "lexical_set": {
+    "strict": [
+      "dog",
+      "dogs"
+    ],
+    "broad": [
+      "dog",
+      "dogs"
+    ]
+  },
+  "context_words": {
+    "raw_candidates": [],
+    "final_top_k": [
+      "woof|bark|fetch",
+      "labrador|retriever|breed",
+      "leash|collar|kennel",
+      "snout|tail|fur",
+      "pooch|hound|mutt",
+      "bone|treat|obedient",
+      "playful|loyal|companion",
+      "puppy|pup|paws"
+    ],
+    "n_captions_target_match": 0,
+    "n_captions_total": 0
+  },
+  "semantic_neighbors": {
+    "candidates_ranked": [],
+    "final_top_k": [
+      "beagle",
+      "coyote",
+      "dingo",
+      "fox",
+      "husky",
+      "hyena",
+      "jackal",
+      "labrador",
+      "puppy",
+      "retriever"
+    ]
+  },
+  "non_neighbor_controls": {
+    "candidates_ranked": [],
+    "final_top_k": [
+      "airplane",
+      "bicycle",
+      "cactus",
+      "jellyfish",
+      "lighthouse",
+      "melon",
+      "police car",
+      "teapot",
+      "violin",
+      "volcano"
+    ],
+    "selection_metadata": {
+      "source": "derived_from_prompt_csv",
+      "notes": "Trimmed clean concept set for anonymous release."
+    }
+  },
+  "metadata": {
+    "embedding_provider": "not_applicable_clean_release",
+    "prompt_template": "not_applicable_clean_release",
+    "include_corpus_cooccurrence": false,
+    "context_lexical_mode": "strict",
+    "min_frequency": null,
+    "min_neighbor_similarity": null,
+    "max_control_similarity": null,
+    "max_control_cooccurrence_df": null,
+    "max_control_pmi": null,
+    "generated_from": "dog_prompts.csv"
+  }
+}

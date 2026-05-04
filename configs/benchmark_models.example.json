@@ -1,0 +1,353 @@
+{
+  "base": {
+    "type": "diffusers",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16"
+  },
+  "base_castle": {
+    "type": "diffusers",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16"
+  },
+  "base_tower": {
+    "type": "diffusers",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16"
+  },
+  "base_horse": {
+    "type": "diffusers",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16"
+  },
+  "base_cat": {
+    "type": "diffusers",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16"
+  },
+  "base_bear": {
+    "type": "diffusers",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16"
+  },
+  "base_dog": {
+    "type": "diffusers",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16"
+  },
+  "esd_horse": {
+    "type": "esd",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "unet_checkpoint": "unlearn_diff/esd/esd-models/sd/esd-horses-from-horses-esdx.safetensors"
+  },
+  "esd_castle": {
+    "type": "esd",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "unet_checkpoint": "unlearn_diff/esd/esd-models/sd/esd-castle-from-castle-esdx.safetensors"
+  },
+  "esd_tower": {
+    "type": "esd",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "unet_checkpoint": "unlearn_diff/esd/esd-models/sd/esd-tower-from-tower-esdx.safetensors"
+  },
+  "esd_cat": {
+    "type": "esd",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "unet_checkpoint": "unlearn_diff/esd/esd-models/sd/esd-cat-from-cat-esdx.safetensors"
+  },
+  "esd_dog": {
+    "type": "esd",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "unet_checkpoint": "unlearn_diff/esd/esd-models/sd/esd-dog-from-dog-esdx.safetensors"
+  },
+  "esd_bear": {
+    "type": "esd",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "unet_checkpoint": "unlearn_diff/esd/esd-models/sd/esd-bear-from-bear-esdx.safetensors"
+  },
+  "advunlearn_horse": {
+    "type": "advunlearn",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "text_encoder_checkpoint": "unlearn_diff/advunlearn/results/results_with_retaining/horse/coco_object/fast_at/AttackLr_0.001/text_encoder_full/all/prefix_k/AdvUnlearn-horse-method_text_encoder_full_all-Attack_fast_at-Retain_coco_object_reg_0.3-lr_1e-05-AttackLr_0.001-prefix_k_adv_num_1-word_embd-attack_init_random-attack_step_5-adv_update_1-warmup_iter_200/models/TextEncoder-text_encoder_full-epoch_199.pt"
+  },
+  "advunlearn_cat": {
+    "type": "advunlearn",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "text_encoder_checkpoint": "unlearn_diff/advunlearn/results/results_with_retaining/cat/cat/coco_object/fast_at/AttackLr_0.001/text_encoder_full/all/prefix_k/AdvUnlearn-cat-method_text_encoder_full_all-Attack_fast_at-Retain_coco_object_reg_0.3-lr_1e-05-AttackLr_0.001-prefix_k_adv_num_1-word_embd-attack_init_random-attack_step_5-adv_update_1-warmup_iter_200/models/TextEncoder-text_encoder_full-epoch_299.pt"
+  },
+  "advunlearn_dog": {
+    "type": "advunlearn",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "text_encoder_checkpoint": "unlearn_diff/advunlearn/results/results_with_retaining/dog/coco_object/fast_at/AttackLr_0.001/text_encoder_full/all/prefix_k/AdvUnlearn-dog-method_text_encoder_full_all-Attack_fast_at-Retain_coco_object_reg_0.3-lr_1e-05-AttackLr_0.001-prefix_k_adv_num_1-word_embd-attack_init_random-attack_step_5-adv_update_1-warmup_iter_200/models/TextEncoder-text_encoder_full-epoch_199.pt"
+  },
+  "advunlearn_bear": {
+    "type": "advunlearn",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "text_encoder_checkpoint": "unlearn_diff/advunlearn/results/results_with_retaining/bear/coco_object/fast_at/AttackLr_0.001/text_encoder_full/all/prefix_k/AdvUnlearn-bear-method_text_encoder_full_all-Attack_fast_at-Retain_coco_object_reg_0.3-lr_1e-05-AttackLr_0.001-prefix_k_adv_num_1-word_embd-attack_init_random-attack_step_5-adv_update_1-warmup_iter_200/models/TextEncoder-text_encoder_full-epoch_199.pt"
+  },
+  "advunlearn_castle": {
+    "type": "advunlearn",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "text_encoder_checkpoint": "unlearn_diff/advunlearn/results/results_with_retaining/castle/coco_object/fast_at/AttackLr_0.001/text_encoder_full/all/prefix_k/AdvUnlearn-castle-method_text_encoder_full_all-Attack_fast_at-Retain_coco_object_reg_0.3-lr_1e-05-AttackLr_0.001-prefix_k_adv_num_1-word_embd-attack_init_random-attack_step_5-adv_update_1-warmup_iter_200/models/TextEncoder-text_encoder_full-epoch_199.pt"
+  },
+  "advunlearn_tower": {
+    "type": "advunlearn",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "text_encoder_checkpoint": "unlearn_diff/advunlearn/results/results_with_retaining/tower/coco_object/fast_at/AttackLr_0.001/text_encoder_full/all/prefix_k/AdvUnlearn-tower-method_text_encoder_full_all-Attack_fast_at-Retain_coco_object_reg_0.3-lr_1e-05-AttackLr_0.001-prefix_k_adv_num_1-word_embd-attack_init_random-attack_step_5-adv_update_1-warmup_iter_200/models/TextEncoder-text_encoder_full-epoch_199.pt"
+  },
+  "stereo_horse": {
+    "type": "stereo",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "unet_checkpoint": "unlearn_diff/stereo/stereo_weights/horse/final_reo_unet.pt"
+  },
+  "stereo_cat": {
+    "type": "stereo",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "unet_checkpoint": "unlearn_diff/stereo/stereo_weights/cat/final_reo_unet.pt"
+  },
+  "stereo_castle": {
+    "type": "stereo",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "unet_checkpoint": "unlearn_diff/stereo/stereo_weights/castle/final_reo_unet.pt"
+  },
+  "stereo_tower": {
+    "type": "stereo",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "unet_checkpoint": "unlearn_diff/stereo/stereo_weights/tower/final_reo_unet.pt"
+  },
+  "stereo_bear": {
+    "type": "stereo",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "unet_checkpoint": "unlearn_diff/stereo/stereo_weights/bear/final_reo_unet.pt"
+  },
+  "stereo_dog": {
+    "type": "stereo",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "unet_checkpoint": "unlearn_diff/stereo/stereo_weights/dog/final_reo_unet.pt"
+  },
+  "erasediff_horse": {
+    "type": "diffusers",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "unet_checkpoint": "unlearn_diff/erasediff/erasediff_horse_unet.pt"
+  },
+  "erasediff_castle": {
+    "type": "diffusers",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "unet_checkpoint": "unlearn_diff/erasediff/erasediff_castle_unet.pt"
+  },
+  "erasediff_tower": {
+    "type": "diffusers",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "unet_checkpoint": "unlearn_diff/erasediff/erasediff_tower_unet.pt"
+  },
+  "erasediff_cat": {
+    "type": "diffusers",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "unet_checkpoint": "/unlearn_diff/erasediff/erasediff_cat_unet.pt"
+  },
+  "erasediff_dog": {
+    "type": "diffusers",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "unet_checkpoint": "unlearn_diff/erasediff/erasediff_dog_unet.pt"
+  },
+  "erasediff_bear": {
+    "type": "diffusers",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "unet_checkpoint": "unlearn_diff/erasediff/erasediff_bear_unet.pt"
+  },
+  "salun_horse": {
+    "type": "salun",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "unet_checkpoint": "unlearn_diff/salun/SD/models/compvis-horse-mask-method_full-lr_1e-05/compvis-horse-mask-method_full-lr_1e-05.pt"
+  },
+  "salun_castle": {
+    "type": "salun",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "unet_checkpoint": "unlearn_diff/salun/SD/models/compvis-castle-mask-method_full-lr_1e-05/compvis-castle-mask-method_full-lr_1e-05.pt"
+  },
+  "salun_tower": {
+    "type": "salun",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "unet_checkpoint": "unlearn_diff/salun/SD/models/compvis-tower-mask-method_full-lr_1e-05/compvis-tower-mask-method_full-lr_1e-05.pt"
+  },
+  "salun_cat": {
+    "type": "salun",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "unet_checkpoint": "unlearn_diff/salun/SD/models/compvis-cat-mask-method_full-lr_1e-05/compvis-cat-mask-method_full-lr_1e-05.pt"
+  },
+  "salun_bear": {
+    "type": "salun",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "unet_checkpoint": "unlearn_diff/salun/SD/models/compvis-bear-mask-method_full-lr_1e-05/compvis-bear-mask-method_full-lr_1e-05.pt"
+  },
+  "salun_dog": {
+    "type": "salun",
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "unet_checkpoint": "unlearn_diff/salun/SD/models/compvis-dog-mask-method_full-lr_1e-05/compvis-dog-mask-method_full-lr_1e-05.pt"
+  },
+  "saeuron_horse": {
+    "type": "saeuron",
+    "model_path": "unlearn_diff/saeuron/style50",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "extra_args": {
+      "sae_checkpoint": "baselines/saeuron/sae-ckpts",
+      "hookpoint": "unet.up_blocks.1.attentions.1",
+      "class_latents_path": "unlearn_diff/saeuron/object_activations/cls_latents_dict_unet.up_blocks.1.attentions.1.pkl",
+      "target_class": "Horses",
+      "percentile": 99.995,
+      "multiplier": -25.0
+    }
+  },
+  "saeuron_cat": {
+    "type": "saeuron",
+    "model_path": "unlearn_diff/saeuron/style50",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "extra_args": {
+      "sae_checkpoint": "baselines/saeuron/sae-ckpts",
+      "hookpoint": "unet.up_blocks.1.attentions.1",
+      "class_latents_path": "unlearn_diff/saeuron/object_activations/cls_latents_dict_unet.up_blocks.1.attentions.1.pkl",
+      "target_class": "Cats",
+      "percentile": 99.995,
+      "multiplier": -25.0
+    }
+  },
+  "saeuron_castle": {
+    "type": "saeuron",
+    "model_path": "unlearn_diff/saeuron/style50",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "extra_args": {
+      "sae_checkpoint": "baselines/saeuron/sae-ckpts",
+      "hookpoint": "unet.up_blocks.1.attentions.1",
+      "class_latents_path": "unlearn_diff/saeuron/object_activations/cls_latents_dict_unet.up_blocks.1.attentions.1.pkl",
+      "target_class": "Castles",
+      "percentile": 99.995,
+      "multiplier": -25.0
+    }
+  },
+  "saeuron_bear": {
+    "type": "saeuron",
+    "model_path": "unlearn_diff/saeuron/style50",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "extra_args": {
+      "sae_checkpoint": "baselines/saeuron/sae-ckpts",
+      "hookpoint": "unet.up_blocks.1.attentions.1",
+      "class_latents_path": "unlearn_diff/saeuron/object_activations/cls_latents_dict_unet.up_blocks.1.attentions.1.pkl",
+      "target_class": "Bears",
+      "percentile": 99.995,
+      "multiplier": -25.0
+    }
+  },
+  "saeuron_dog": {
+    "type": "saeuron",
+    "model_path": "unlearn_diff/saeuron/style50",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "extra_args": {
+      "sae_checkpoint": "baselines/saeuron/sae-ckpts",
+      "hookpoint": "unet.up_blocks.1.attentions.1",
+      "class_latents_path": "unlearn_diff/saeuron/object_activations/cls_latents_dict_unet.up_blocks.1.attentions.1.pkl",
+      "target_class": "Dogs",
+      "percentile": 99.995,
+      "multiplier": -25.0
+    }
+  },
+  "saeuron_tower": {
+    "type": "saeuron",
+    "model_path": "unlearn_diff/saeuron/style50",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "extra_args": {
+      "sae_checkpoint": "baselines/saeuron/sae-ckpts",
+      "hookpoint": "unet.up_blocks.1.attentions.1",
+      "class_latents_path": "unlearn_diff/saeuron/object_activations/cls_latents_dict_unet.up_blocks.1.attentions.1.pkl",
+      "target_class": "Towers",
+      "percentile": 99.995,
+      "multiplier": -25.0
+    }
+  },
+  "saeuron_architectures": {
+    "type": "saeuron",
+    "model_path": "unlearn_diff/saeuron/style50",
+    "pipeline_class": "StableDiffusionPipeline",
+    "torch_dtype": "float16",
+    "extra_args": {
+      "sae_checkpoint": "baselines/saeuron/sae-ckpts",
+      "hookpoint": "unet.up_blocks.1.attentions.1",
+      "class_latents_path": "unlearn_diff/saeuron/object_activations/cls_latents_dict_unet.up_blocks.1.attentions.1.pkl",
+      "target_class": "Architectures",
+      "percentile": 99.995,
+      "multiplier": -25.0
+    }
+  }
+}
+

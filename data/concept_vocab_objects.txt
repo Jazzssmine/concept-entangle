@@ -1,4 +1,8 @@
 horse
+cat
+dog
+bear
+castle
 pony
 donkey
 zebra
@@ -9,9 +13,9 @@ stallion
 mule
 bison
 camel
-cat
 kitten
 tiger
+lion
 leopard
 panther
 cheetah
@@ -19,7 +23,6 @@ lynx
 jaguar
 cougar
 bobcat
-dog
 puppy
 fox
 coyote
@@ -29,12 +32,17 @@ hyena
 husky
 labrador
 beagle
-bear
+retriever
 grizzly
+polar bear
 panda
 cub
 koala
-castle
+black bear
+brown bear
+teddy bear
+sloth bear
+sun bear
 fortress
 tower
 cathedral
@@ -43,18 +51,15 @@ keep
 citadel
 watchtower
 stronghold
+fortified wall
 manor
-jellyfish
-melon
-cactus
 airplane
 bicycle
-fortified wall
+cactus
+jellyfish
 lighthouse
-polar bear
+melon
 police car
-retriever
-sun bear
 teapot
 violin
 volcano

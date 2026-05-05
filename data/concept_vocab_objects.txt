@@ -33,15 +33,9 @@ labrador
 beagle
 bear
 grizzly
-polar_bear
 panda
 cub
 koala
-black_bear
-brown_bear
-teddy_bear
-sloth_bear
-sun_bear
 castle
 fortress
 tower
@@ -51,12 +45,10 @@ keep
 citadel
 watchtower
 stronghold
-fortified_wall
 manor
 jellyfish
 melon
 cactus
-police_car
 airplane
 bicycle
 black bear

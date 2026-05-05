@@ -12,7 +12,6 @@ camel
 cat
 kitten
 tiger
-lion
 leopard
 panther
 cheetah
@@ -22,7 +21,6 @@ cougar
 bobcat
 dog
 puppy
-wolf
 fox
 coyote
 jackal
@@ -33,21 +31,9 @@ labrador
 beagle
 bear
 grizzly
-<<<<<<< HEAD
 panda
 cub
 koala
-=======
-polar_bear
-panda
-cub
-koala
-black_bear
-brown_bear
-teddy_bear
-sloth_bear
-sun_bear
->>>>>>> 1a49d7c (init push)
 castle
 fortress
 tower
@@ -57,30 +43,18 @@ keep
 citadel
 watchtower
 stronghold
-<<<<<<< HEAD
-=======
-fortified_wall
->>>>>>> 1a49d7c (init push)
 manor
 jellyfish
 melon
 cactus
-<<<<<<< HEAD
-=======
-police_car
->>>>>>> 1a49d7c (init push)
 airplane
 bicycle
-black bear
-brown bear
 fortified wall
 lighthouse
 polar bear
 police car
 retriever
-sloth bear
 sun bear
 teapot
-teddy bear
 violin
 volcano

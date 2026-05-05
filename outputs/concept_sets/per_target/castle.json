@@ -70,16 +70,12 @@
   "semantic_neighbors": {
     "candidates_ranked": [],
     "final_top_k": [
-      "cathedral",
-      "citadel",
-      "fortified wall",
       "fortress",
+      "palace",
+      "citadel",
       "keep",
       "manor",
-      "palace",
-      "stronghold",
-      "tower",
-      "watchtower"
+      "cathedral"
     ]
   },
   "non_neighbor_controls": {

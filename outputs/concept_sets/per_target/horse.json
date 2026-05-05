@@ -70,16 +70,13 @@
   "semantic_neighbors": {
     "candidates_ranked": [],
     "final_top_k": [
-      "bison",
-      "camel",
-      "donkey",
-      "foal",
-      "mare",
-      "mule",
-      "mustang",
       "pony",
+      "mare",
+      "donkey",
       "stallion",
-      "zebra"
+      "foal",
+      "zebra",
+      "mule"
     ]
   },
   "non_neighbor_controls": {

@@ -28,15 +28,10 @@
   "semantic_neighbors": {
     "candidates_ranked": [],
     "final_top_k": [
-      "beagle",
-      "coyote",
-      "dingo",
-      "fox",
-      "husky",
-      "hyena",
-      "jackal",
-      "labrador",
       "puppy",
+      "labrador",
+      "husky",
+      "beagle",
       "retriever"
     ]
   },

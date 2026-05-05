@@ -21,16 +21,11 @@
   "semantic_neighbors": {
     "candidates_ranked": [],
     "final_top_k": [
-      "bobcat",
-      "cheetah",
-      "cougar",
-      "jaguar",
       "kitten",
-      "leopard",
-      "lion",
       "lynx",
-      "panther",
-      "tiger"
+      "leopard",
+      "tiger",
+      "cheetah"
     ]
   },
   "non_neighbor_controls": {

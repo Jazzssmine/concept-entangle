@@ -22,16 +22,11 @@
   "semantic_neighbors": {
     "candidates_ranked": [],
     "final_top_k": [
-      "black bear",
-      "brown bear",
-      "cub",
       "grizzly",
-      "koala",
       "panda",
       "polar bear",
-      "sloth bear",
-      "sun bear",
-      "teddy bear"
+      "koala",
+      "cub"
     ]
   },
   "non_neighbor_controls": {
